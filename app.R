@@ -32,7 +32,7 @@ source("functions.R")
 
 # Define UI
 ui <- fluidPage(
-  titlePanel("Lab 5 / Lab 6 Regeression Analysis"),
+  titlePanel("Lab 5 / Lab 6 Regression Analysis"),
   sidebarLayout(
     sidebarPanel(
       downloadButton('downloadTemplate_5', "Download Lab 5 Excel File"),

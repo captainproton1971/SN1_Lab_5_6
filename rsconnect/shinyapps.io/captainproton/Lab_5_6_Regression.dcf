@@ -5,7 +5,7 @@ account: captainproton
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12721106
-bundleId: 9123596
+bundleId: 9126288
 url: https://captainproton.shinyapps.io/Lab_5_6_Regression/
 version: 1
 asMultiple: FALSE
