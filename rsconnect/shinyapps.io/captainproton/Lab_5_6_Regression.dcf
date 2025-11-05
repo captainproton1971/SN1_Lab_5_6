@@ -1,11 +1,11 @@
 name: Lab_5_6_Regression
-title: LabRegression
+title: Lab_5_6_Regression
 username: captainproton
 account: captainproton
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12721106
-bundleId: 9126288
+bundleId: 11131362
 url: https://captainproton.shinyapps.io/Lab_5_6_Regression/
 version: 1
 asMultiple: FALSE
